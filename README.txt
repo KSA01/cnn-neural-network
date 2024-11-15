@@ -1,0 +1,1 @@
+Built a CNN neural network and trained it on the CIFAR10 dataset of images to get an accuracy value greater than 0.60
